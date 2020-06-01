@@ -1,0 +1,11 @@
+#circleId{
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    background-color: blue;
+    border-radius: 50%;
+    border: 5px solid green;
+    /* Where the circle will start on the page */
+    top: 50%;
+    left: 50%;
+}
